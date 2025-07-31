@@ -1,0 +1,42 @@
+.home-section {
+    min-height: 100vh;
+    background-image: url('../images/background.avif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    backdrop-filter: brightness(0.85);
+    padding: 4rem 0;
+    position: relative;
+}
+
+/* .profile-img {
+  max-width: 350px;
+  border: 5px solid rgb(136, 39, 39);
+  transition: transform 0.3s ease-in-out;
+}
+
+.profile-img:hover {
+  transform: scale(1.05);
+} */
+
+.btn-lg {
+    font-weight: 500;
+    padding: 0.6rem 1.5rem;
+    border-radius: 50px;
+}
+
+.glass-card {
+    padding: 12px;
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+    max-width: 320px;
+}
+
+.glass-img {
+    border-radius: 14px;
+    width: 100%;
+    height: auto;
+}
