@@ -35,7 +35,7 @@ const projects = [
   },
   {
     title: "B.Tech Term Project – ML for Castellated Columns",
-    guide: "Dr. M. Nithyadharan, Dr. Venkateswaran",
+    guide: "Dr. M. Nithyadharan, Dr. Venkataraman",
     duration: "Aug. 2024 – May 2025",
     description: `Developed ML framework to calculate buckling load of castellated columns. Dataset generated via FEM analysis.`,
     tech: "Python, FEM, ANN, DTR, RFR, Sci-kit Learn",

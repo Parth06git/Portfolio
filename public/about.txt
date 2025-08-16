@@ -1,6 +1,6 @@
 This favicon was generated using the following font:
 
-- Font Title: Lateef
+- Font Title: Sriracha
 - Font Author: undefined
-- Font Source: https://fonts.gstatic.com/s/lateef/v32/hESw6XVnNCxEvkbMpheEZo_H_w.ttf
+- Font Source: https://fonts.gstatic.com/s/sriracha/v15/0nkrC9D4IuYBgWcI9ObYRQDioeb0.ttf
 - Font License: undefined)

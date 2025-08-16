@@ -16,21 +16,21 @@ const experiences = [
     location: "Jaipur",
     duration: "May 2024 – Jul 2024",
     description: [
-      "Supported subscription-based businesses and learned about Zuora’s operation.",
-      "Developed and oversaw a Zuora application for a company offering news via subscription.",
-      "Assisted in managing additional Zuora applications.",
+      "Worked as Project Assistant & Zuora Developer, supporting subscription-based business operations through configuration, workflow management, and account handling.",
+      "Developed and deployed a Zuora application for a news subscription service, enhancing billing automation and subscription tracking.",
+      "Maintained multiple Zuora applications, ensuring integration efficiency, data accuracy, and process optimization.",
     ],
   },
-  {
-    company: "UG Research Projects",
-    title: "Structural Modelling & ML Researcher",
-    location: "IIT Tirupati",
-    duration: "Aug 2024 – May 2025",
-    description: [
-      "Worked on ML-based prediction of structural strength using FE model datasets.",
-      "Performed parametric studies of castellated columns under various loading conditions.",
-    ],
-  },
+  // {
+  //   company: "B.Tech Term Projects",
+  //   title: "Structural Modelling & ML Researcher",
+  //   location: "IIT Tirupati",
+  //   duration: "Aug 2024 – May 2025",
+  //   description: [
+  //     "Designed and implemented an ML-based framework to predict buckling load of castellated columns using datasets generated via Finite Element Method (FEM) simulations.",
+  //     "Applied ANN, Decision Tree Regressor, and Random Forest Regressor using Python, Sci-kit Learn, achieving accurate prediction models for structural performance.",
+  //   ],
+  // },
 ];
 
 const Experience = () => {

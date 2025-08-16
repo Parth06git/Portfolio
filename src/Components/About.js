@@ -13,7 +13,7 @@ const About = () => {
               I am <strong>Parth Trivedi</strong>, a committed and curious civil
               engineer with a B.Tech degree from <strong>IIT Tirupati</strong>,
               currently pursuing a{" "}
-              <strong>PhD in Infrastructure Engineering and Management</strong>
+              <strong>PhD in Infrastructure Engineering and Management </strong>
               in the Civil Engineering Department at <strong>IIT Kanpur</strong>
               .
             </p>

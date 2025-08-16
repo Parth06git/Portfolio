@@ -26,7 +26,7 @@ const Contact = () => {
       return;
     }
 
-    const mailtoLink = `mailto:ce21b024@iittp.ac.in?subject=Portfolio Message from ${formData.name}&body=${formData.message}%0D%0A%0D%0AFrom: ${formData.name} (${formData.email})`;
+    const mailtoLink = `mailto:parthtrivedi0612@gmail.com?subject=Portfolio Message from ${formData.name}&body=${formData.message}%0D%0A%0D%0AFrom: ${formData.name} (${formData.email})`;
     window.location.href = mailtoLink;
 
     setSubmitted(true);
