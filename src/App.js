@@ -8,34 +8,20 @@ import Project from "./Components/Project";
 import Experience from "./Components/Experience";
 import Education from "./Components/Education";
 import Contact from "./Components/Contact";
+import POR from "./Components/POR";
 
 const App = () => {
   return (
     <>
       <Navbar />
-
-      {/* Hero Section */}
       <Home />
-
-      {/* About Section */}
       <About />
-
-      {/* Experience Section */}
       <Education />
-
-      {/* Skills Section */}
       <Skills />
-
-      {/* Projects Section */}
       <Project />
-
-      {/* Experience Section */}
       <Experience />
-
-      {/* Contact Section */}
+      <POR />
       <Contact />
-
-      {/* Footer */}
       <footer className="bg-dark text-white text-center py-3">
         <Container>
           <p className="mb-0">Built by Parth Trivedi © 2025</p>

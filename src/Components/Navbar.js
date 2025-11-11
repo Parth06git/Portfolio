@@ -28,6 +28,9 @@ const Navbar = () => {
             <Nav.Link href="#experience" className="nav-link-custom">
               Experience
             </Nav.Link>
+            <Nav.Link href="#por" className="nav-link-custom">
+              POR
+            </Nav.Link>
             <Nav.Link href="#contact" className="nav-link-custom">
               Contact
             </Nav.Link>

@@ -4,13 +4,6 @@ import "./style/hoverEffect.css";
 
 const experiences = [
   {
-    company: "IIT Kanpur",
-    title: "Teaching Assistant – FSC",
-    location: "Kanpur",
-    duration: "Jul 2025 – Present",
-    description: [],
-  },
-  {
     company: "Athenalogics Solution Pvt Ltd",
     title: "Project Assistant & Zuora Developer Intern",
     location: "Jaipur",
@@ -44,11 +37,11 @@ const Experience = () => {
               <Card className="hover-card shadow-sm border-0 h-100">
                 <Card.Body>
                   <div className="d-flex justify-content-between">
-                    <h5 className="mb-1">{exp.company}</h5>
+                    <h5 className="mb-1">{exp.title}</h5>
                     <small className="text-muted">{exp.duration}</small>
                   </div>
                   <div className="d-flex justify-content-between">
-                    <h6 className="text-primary">{exp.title}</h6>
+                    <h6 className="text-primary">{exp.company}</h6>
                     <small>{exp.location}</small>
                   </div>
                   <ul className="mt-2 mb-0">

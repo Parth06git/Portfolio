@@ -59,11 +59,11 @@ const About = () => {
           <Col md={5} className="text-center mt-4 mt-md-0">
             <ul className="list-unstyled about-highlights">
               <li>🎓 PhD Scholar – IIT Kanpur</li>
-              <li>🛠️ Structural & Infrastructure Research</li>
+              <li>🛠️ Infrastructure and Management Research</li>
               <li>📊 ML + FE Modeling Experience</li>
               <li>💻 Web Developer – MERN Stack</li>
-              <li>🎨 Ex-Event Manager, Scribbles Club</li>
-              <li>🏗️ Passionate about Lean & Sustainability</li>
+              <li>👨‍💼 Student Nominee, DPGC</li>
+              <li>🏗️ Passionate about Lean & Management</li>
             </ul>
           </Col>
         </Row>
