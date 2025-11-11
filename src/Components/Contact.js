@@ -94,9 +94,19 @@ const Contact = () => {
             <label htmlFor="floatingMessage">Message</label>
           </Form.Floating>
 
-          <Button variant="primary" type="submit">
-            Send Message
-          </Button>
+          <div className="d-flex flex-column flex-md-row gap-3">
+            <Button variant="primary" type="submit">
+              Send Message
+            </Button>
+            <Button
+              variant="outline-secondary"
+              href="https://www.linkedin.com/in/parth-trivedi-357916268/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Visit LinkedIn Profile
+            </Button>
+          </div>
         </Form>
       </Container>
     </section>
