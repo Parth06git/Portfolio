@@ -106,6 +106,14 @@ const Contact = () => {
             >
               Visit LinkedIn Profile
             </Button>
+            <Button
+              variant="outline-secondary"
+              href="https://github.com/Parth06git"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Visit My GitHub
+            </Button>
           </div>
         </Form>
       </Container>
